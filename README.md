@@ -13,3 +13,7 @@ If you finish with the first task, provide a way for Terence to view the emails 
 ## Really suck up to Terence
 
 Show the emails in the database *without* writing any code.
+
+This is my awesome app.
+
+http://morning-oasis-1556.herokuapp.com/
