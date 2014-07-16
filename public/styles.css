@@ -1,0 +1,27 @@
+.gutter {
+    width: 25%;
+    display: inline-block;
+}
+
+.content {
+    width: 50%;
+    display: inline-block;
+}
+.register_link {
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+    background-color: gray;
+    height: 100px;
+    width: 100%;
+}
+.main {
+    margin: 0 auto;
+    width: 960px;
+}
+
+li {
+    list-style: none;
+    width: 100%;
+}
